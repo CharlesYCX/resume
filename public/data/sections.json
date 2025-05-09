@@ -8,7 +8,7 @@
             "type": "centered",
             "locales": {
                 "en": {
-                    "title": "Welcome to *my resume!*",
+                    "title": "Hi! This is *Charles*",
                     "title_short": "Welcome!",
                     "description": null,
                     "nav_label": "About"
@@ -44,7 +44,7 @@
                 "en": {
                     "title": "*Educational* Background",
                     "title_short": null,
-                    "description": "A glimpse into my academic trajectory and accomplishments.",
+                    "description": "My academic journey.",
                     "nav_label": "Education"
                 },
                 "es": {
